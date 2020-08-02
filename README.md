@@ -1,4 +1,4 @@
-This repository contains work completed for deeplearning.ai's [Tensorflow in Practice course](https://www.coursera.org/specializations/tensorflow-in-practice?), provided on Coursera. Check out my credential [here](https://www.coursera.org/account/accomplishments/specialization/certificate/EC3Y7LST5A87).
+This repository contains work completed for the [Tensorflow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice?) provided by deeplearning.ai on Coursera, which contains 4 courses in total. Check out my credential [here](https://www.coursera.org/account/accomplishments/specialization/certificate/EC3Y7LST5A87).
 
 **Course Content**
 <ol>
